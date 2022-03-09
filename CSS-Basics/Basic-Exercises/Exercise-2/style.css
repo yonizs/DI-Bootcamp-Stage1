@@ -1,1 +1,19 @@
-ECHO is on.
+.odd {
+ background-color: #FD9C9C;
+ font-family: Verdana,Dejavi Sans,sans-serif;
+}
+
+#two {
+ color: blue;
+ font-size: 36px;
+}
+
+.odd number three {
+ font-size: 24px;
+}
+
+#four {
+ background-color: #B2FD6E;
+ font-size: 24px;
+ font-weight: bold;
+}
