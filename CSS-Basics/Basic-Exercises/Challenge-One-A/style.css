@@ -1,1 +1,15 @@
-ECHO is on.
+body {
+ background-color: #e78c57;
+ font-family: sans-serif;
+}
+ul li { 
+width: 60%;
+text-align: center;
+margin-left: auto;
+mcd   argin-right: auto;
+text-transform: capitalize;
+}
+li::first-letter {
+font-weight: half-bold;
+font-size: 22px;
+}

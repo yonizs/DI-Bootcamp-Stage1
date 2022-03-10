@@ -1,1 +1,15 @@
-
+body {
+ background-color: #59B6FB;
+ font-family: sans-serif;
+}
+ul li { 
+width: 60%;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+text-transform: capitalize;
+}
+li::first-letter {
+font-weight: half-bold;
+font-size: 22px;
+}
