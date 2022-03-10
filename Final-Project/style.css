@@ -6,7 +6,8 @@
 }
 
 .buttons {
- margin: auto;
+ margin-left: auto;
+ margin-right: auto;
  text-align: center;
  font-size: 56px;
  background-color: lightcyan;
@@ -34,7 +35,8 @@ img {
 
 .list {
 background-color:lightblue;
-margin: auto;
+margin-left: auto;
+margin-right: auto;
 text-align: center;
 padding: 20 px;
 }
