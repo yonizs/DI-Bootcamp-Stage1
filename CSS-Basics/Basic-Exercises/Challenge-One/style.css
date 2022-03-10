@@ -1,0 +1,7 @@
+* {
+ background-color: aqua;
+}
+#list {
+ list-style-type: none;
+margin: auto;
+}

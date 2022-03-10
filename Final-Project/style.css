@@ -1,0 +1,48 @@
+*{
+ background-color: azure;
+ font-family: Fredoka, sans-serif;
+}
+
+.buttons {
+ margin: auto;
+ text-align: center;
+ font-size: 56px;
+ background-color: lightcyan;
+ border: none;
+}
+
+button {
+ border: none;
+}
+.header {
+ background-color: lightblue;
+ font-family: Fr;
+ text-align: center;
+ padding: 5px;
+}
+img {
+ width: 400px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+
+}
+
+.list {
+background-color:lightblue;
+margin: auto;
+text-align: center;
+}
+
+ul {
+ list-style-type: none;
+}
+
+footer {
+ text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 25px;
+  background: #6cf;
+}
