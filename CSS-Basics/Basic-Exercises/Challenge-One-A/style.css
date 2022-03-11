@@ -2,17 +2,6 @@
  background-color: #F3A979;
 }
 
-.wrap {
- padding-left: auto;
- padding-right: auto;
- font-family: sans-serif;
-display: inline-block;
- text-align: center;
- background: beige;
- margin-left: auto;
- margin-right: auto;
-}
-
 div {
  background-color: beige;
  margin-right: auto;
@@ -62,5 +51,10 @@ font-size: 22px;
  background-color: beige;
  border: dotted;
  margin-left: 20%;
- margin-right: 20%;
+ margin-right: 20%; 
+ padding-left: auto;
+ padding-right: auto;
+ font-family: sans-serif;
+display: inline-block;
+ text-align: center;
 }
